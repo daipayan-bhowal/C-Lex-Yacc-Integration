@@ -1,2 +1,2 @@
 # C-Lex-Yacc-Integration
-C Language specifictaion with Lex-Yacc Integration
+ANSI C Language specification with Flex & Bison file Integration using Shellscript  
